@@ -8,7 +8,7 @@
 <body>
       <?php 
 
-        $nome = "Ricardo dos santos";
+        $nome = " Ricardo dos santos ";
         echo "TESTE";
      print $nome;
 ?>
