@@ -7,7 +7,7 @@
 </head>
 <body>
    
-   <form method="post" action="aula6.php">
+   <form method= "post" action="aula6.php">
      Nome: <input type="text" name="nome" /> <br>
      Idade: <input type="text" name="idade" /> <br>
      Email: <input type="email" name="email" /> <br>
